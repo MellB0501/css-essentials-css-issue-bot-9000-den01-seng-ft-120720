@@ -13,11 +13,9 @@ h2 {
   font-style: italic;
 }
 
-#tasks .completed {
-  background-color: #ccc;
-  text-decoration: underline;
-}
 
 .completed {  
   font-size: 12px;
+   background-color: #ccc;
+  text-decoration: underline;
 }
