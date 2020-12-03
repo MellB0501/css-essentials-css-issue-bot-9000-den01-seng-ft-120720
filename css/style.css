@@ -16,5 +16,8 @@ h2 {
 #tasks {
   background-color: #ccc;
   text-decoration: underline;
+}
+
+selector {  
   font-size: 12px;
 }
