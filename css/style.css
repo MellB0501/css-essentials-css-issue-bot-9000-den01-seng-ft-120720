@@ -13,9 +13,8 @@ h2 {
   font-style: italic;
 }
 
-
 .completed {  
   font-size: 12px;
-   background-color: #ccc;
+  background-color: #ccc;
   text-decoration: underline;
 }
